@@ -316,3 +316,4 @@ data
 # Shape predictor
 shape_predictor_68_face_landmarks.dat
 models/*.h5
+lfw-deepfunneled.tgz
